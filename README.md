@@ -4,10 +4,7 @@
 - 📫 How to reach me: lauchinyuan@yeah.net
 
 ![](https://github-readme-stats.vercel.app/api?username=lauchinyuan)
-My Github Stats
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauchinyuan) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauchinyuan) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauchinyuan)
 
