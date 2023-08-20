@@ -5,15 +5,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lauchinyuan)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauchinyuan) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lauchinyuan) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lauchinyuan)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lauchinyuan&theme=default&utcOffset=8)
 
 
 <!--
 **lauchinyuan/lauchinyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
