@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning CPU design 
 - 🔭 I obtained my bachelor's degree from Shenzhen University, and I am currently pursuing a master's degree at Zhengzhou University.
-- 📫 How to reach me: lauchinyuan@yeah.net
+- 📫 How to reach me: lauchinyuan@yeah.net or 2018133098@email.szu.edu.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=lauchinyuan)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lauchinyuan) 
