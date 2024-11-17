@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning CPU design 
+- 🌱 I’m currently focusing on ASIC design.
 - 🔭 I obtained my bachelor's degree from Shenzhen University, and I am currently pursuing a master's degree at Zhengzhou University.
+- 🏢 I interned at the Beijing Institute of Open Source Chip from 2023 to 2024 as a Digital Design Verification Engineer, focusing on DDR Subsystem.
 - 📫 How to reach me: lauchinyuan@yeah.net or 2018133098@email.szu.edu.cn
 
 ![](https://github-readme-stats.vercel.app/api?username=lauchinyuan)
